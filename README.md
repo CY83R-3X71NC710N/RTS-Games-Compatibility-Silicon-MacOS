@@ -28,3 +28,6 @@ https://www.applegamingwiki.com/wiki/Company_of_Heroes_3 (Refuses to work on mac
 
 So really the only games that most people will struggle playing on macOS are those games that use spring.exe (Are those games worth playing, the engine seems highly outdated?)
 
+```
+Games with anticheat I just recommend playing on console if possible, RTS games usually don't have these restrictions, so I recommend mac for RTS + Xbox for Others
+```
