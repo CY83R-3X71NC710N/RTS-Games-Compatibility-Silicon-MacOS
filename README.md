@@ -18,5 +18,6 @@ and Age of Empires IV works on Xbox
 
 (All these RTS games are on gamepass)
 
-So really the only games that most people will struggle playing on macOS are those games that use spring.exe
-(Are those games worth playing the engine seems highly outdated)
+Red Alert 3 Works Great on Parallels. (Maybe even works on Crossover)
+
+So really the only games that most people will struggle playing on macOS are those games that use spring.exe (Are those games worth playing, the engine seems highly outdated?)
